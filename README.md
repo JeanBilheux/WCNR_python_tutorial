@@ -31,5 +31,5 @@ IPython Notebook Tutorial for the scientists
 6. Loading and plotting a log from a NeXus file
 - h5py
 
-7. Working with Mantid and Python
+
  
